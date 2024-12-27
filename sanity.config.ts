@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'BloLabel',
 
-  projectId: process.env.PROJECT_ID!,
+  projectId: '3bijw7xq',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
